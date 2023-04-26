@@ -4,6 +4,6 @@ Heart Attack Analysis & Prediction using Machine Learning Algorithms
 
 by :
 ruyuf albarrak 
-najed almutairi 
+najd almutairi 
 Khawlah Alghanim
 
